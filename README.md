@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="../snake.yml" alt="Snake animation" />
+<img src="https://github.com/rathaamani/Rathaamani/blob/7085cd88cfcbde6d09d72ed92df721508b8007df/snake.yml" alt="Snake animation" />
 
 ###

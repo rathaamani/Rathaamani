@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rathaamani2001@gmail.com**
 
-- ⚡ Fun fact **I'm Techie**
+- ⚡ Fun fact **I'm Tech-Savvy Athlete**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

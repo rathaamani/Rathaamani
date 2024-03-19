@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rathaamani/rathaamani/output/snake.svg" alt="Snake animation" />
 
 ###

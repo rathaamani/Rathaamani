@@ -1,4 +1,4 @@
-![DSC04405](https://github.com/rathaamani/Rathaamani/assets/71706842/833596ea-14d6-459c-9daa-65f1ea77941e)<h1 align="center">Hi 👋, I'm Rathaamani</h1>
+<h1 align="center">Hi 👋, I'm Rathaamani</h1>
 <h3 align="center">A passionate Java Full Stack developer from India</h3>
 
 - 🔭 I’m currently working on **Full stack Development**

@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rathaamani</h1>
-<h3 align="center">A passionate Java Full Stack developer from India</h3>
+<h3 align="center">A passionate Java developer & Automation Tester</h3>
 
-- 🔭 I’m currently working on **Full stack Development**
+- 🔭 I’m currently a Java Developer
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning Automation Engineering...
 
 - 👨‍💻 All of my projects are available at [rathaamani](rathaamani)
 
-- 💬 Ask me about **Springboot, Java, C#**
+- 💬 Ask me about **Springboot, Java, Selenium**
 
 - 📫 How to reach me **rathaamani2001@gmail.com**
 
